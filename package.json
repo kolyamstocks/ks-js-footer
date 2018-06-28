@@ -1,0 +1,25 @@
+{
+  "name": "ks-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications for an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolyamstocks/ks-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Kolya <hawyn.ninja@gmail.com> (https://www.npmjs.com/~kolyamstocks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolyamstocks/ks-js-footer/issues"
+  },
+  "homepage": "https://github.com/kolyamstocks/ks-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
